@@ -19,7 +19,7 @@ public class MouseWheel : MonoBehaviour
 }
 
 
-## IN MAIN CLASS ##
+## IN MAIN CLASS (Example) ##
 
 public class Main : Monobehavior
 {

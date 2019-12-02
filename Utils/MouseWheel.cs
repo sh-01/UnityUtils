@@ -23,7 +23,7 @@ public class MouseWheel : MonoBehaviour
 
 public class Main : Monobehavior
 {
-    void Upsate()
+    void Update()
     {
         if (MouseWheel.ScrollUp)
         {
